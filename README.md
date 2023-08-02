@@ -1,5 +1,10 @@
+[![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-green)](https://www.djangoproject.com/)
+[![SQLite3](https://img.shields.io/badge/SQLite3-lightgrey)](https://www.sqlite.org/)
+[![Simple JWT](https://img.shields.io/badge/Simple%20JWT-green)](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
+[![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-orange)](https://en.wikipedia.org/wiki/Team_collaboration)
+
 ## Групповой проект студентов Яндекс. Практикум по курсу "API: интерфейс взаимодействия программ"
-___
 ### Описание
 Проект YaMDb собирает отзывы пользователей на произведения. Произведения делятся на категории: "Категории", "Фильмы", "Музыка".Список категорий (Category) может быть расширен администратором (например, можно добавить категорию "Артхаус").
 Сами произведения в YaMDb не хранятся, здесь нельзя посмотреть фильм или послушать музыку.
